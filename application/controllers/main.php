@@ -45,7 +45,7 @@ class Main extends Nova_main {
 			.= '&customprompt=Welcome%20to%20'.$server_name.'%20-%20'.$channel
 			.= '&customloading=Please%20wait...%20Loading%20chat&chatOutputShowTimes=true&userListFontSize=12';
 
-		$data['stats'] = $this->config->item('stats_page_url','mibbit');
+		$data['stats'] = (empty($this->config->item('stats_page_url','mibbit')) ? '' : $this->config->item('stats_page_url','mibbit'));
 		$data['width'] = $this->config->item('width','mibbit');
 		$data['height'] = $this->config->item('height','mibbit');
 
