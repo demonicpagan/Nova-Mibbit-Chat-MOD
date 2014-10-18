@@ -1,4 +1,4 @@
-<?php echo text_output($header, 'h1', 'page_head'); ?>
+<?php echo text_output($header, 'h1', 'page-head'); ?>
 
 <center>
 	<iframe src='<?php echo $uri; ?>' frameborder='0' style='height: <?php echo $height;?>; width: <?php echo $width;?>;'>

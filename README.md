@@ -41,6 +41,10 @@ You can always get the latest source from <http://github.com/demonicpagan/Nova-M
 
 Changelog - Dates are in Epoch time
 -----------------------------------
+1413608922:
+
+*	Fixed a typo with CSS header call. Found by Pond on KDFSnet IRC server.
+
 1392784891:
 
 *	Made a change to displaying the stats URL. If it is not set, it won't display the link on the chat page and sets $data['stats'] to being empty.
