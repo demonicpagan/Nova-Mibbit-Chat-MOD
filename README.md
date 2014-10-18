@@ -43,7 +43,7 @@ Changelog - Dates are in Epoch time
 -----------------------------------
 1413611329:
 
-*	Added instructions on how to mute Mibbit sounds.
+*	Added instructions on how to mute Mibbit sounds. Addition suggested by members of the USS-Vindicator on KDFSnet.
 
 1413608922:
 
