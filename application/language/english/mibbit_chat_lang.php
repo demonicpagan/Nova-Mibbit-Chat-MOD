@@ -58,6 +58,8 @@ $lang['mlabels_real1'] = "If you plan on doing a lot of chatting with us, it".RS
 $lang['mlabels_click'] = "click here";
 $lang['mlabels_real2'] = "to Download a Real IRC Client";
 
+$lang['mlabels_sound'] = "If you would like to mute the sound output by Mibbit, type /mute in the chat box.";
+
 $lang['mlabels_iframe'] = "Your user agent does not support frames or is currently configured not to display frames";
 $lang['mlabels_new_window1'] = "However, you may want to open the";
 $lang['mlabels_new_window2'] = "chat in a new browser window";

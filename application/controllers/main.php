@@ -73,6 +73,7 @@ class Main extends Nova_main {
 			'iframe' => $this->lang->line('mlabels_iframe'),
 			'new_window1' => $this->lang->line('mlabels_new_window1'),
 			'new_window2' => $this->lang->line('mlabels_new_window2'),
+			'sound' => $this->lang->line('mlabels_sound'),
 		);
 
 		$this->_regions['content'] = Location::view('main_chat', $this->skin, 'main', $data);

@@ -21,6 +21,7 @@
 	<li>/away [msg] <?php echo $mlabel['away']; ?></li>
 	<li>/back <?php echo $mlabel['back']; ?></li>
 </ul>
+<?php echo $mlabel['sound']; ?>
 <br />
 <?php echo $mlabel['real1']; ?> <a href='http://www.mirc.com/get.html'><?php echo $mlabel['click_here']; ?></a>
 <?php echo $mlabel['real2']; ?>.

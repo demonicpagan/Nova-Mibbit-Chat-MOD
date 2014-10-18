@@ -41,6 +41,10 @@ You can always get the latest source from <http://github.com/demonicpagan/Nova-M
 
 Changelog - Dates are in Epoch time
 -----------------------------------
+1413611329:
+
+*	Added instructions on how to mute Mibbit sounds.
+
 1413608922:
 
 *	Fixed a typo with CSS header call. Found by Pond on KDFSnet IRC server.
